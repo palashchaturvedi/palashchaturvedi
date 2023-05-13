@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 😎 I am a student doing Bachelors of Technology in Artificial Intelligence and Machine Learning.<br>😊 I want to become a Data Scientist.<br>🫡 I am a hard worker person full of passion for Science and Space  <br>🔭 Shoot me an Email or add me on Linkedin :)
 
 
