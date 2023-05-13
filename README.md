@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **various programming languages**
 
+- 💬 Ask me about **Python and C++ languages**
+
 - 📫 How to reach me **chaturvedipalash21@gmail.com**
 
 - ⚡ Fun fact **I adore the vastness of space.**
